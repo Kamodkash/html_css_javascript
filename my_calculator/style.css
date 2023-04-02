@@ -1,0 +1,41 @@
+h1{
+    text-align: center;
+    Color:black;
+    font-size: 70px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+body{
+    background-color: rgb(127, 208, 255);
+}       
+
+input {
+    width:120px;
+    height: 55px;
+    font-size: 45px;
+    border-radius: 10px;
+    margin: 10px;
+    background-color:grey;
+    opacity: 100;
+}
+
+#myform {
+    margin-left: 450px;
+    margin-top: 20px;
+}
+
+#input{
+    width:545px;
+    height:100px;
+    text-align: right;
+    background-color:whitesmoke;
+}
+
+#btcolor1{
+    background-color: rgb(150, 24, 66);
+}
+
+#btcolor{
+    background-color: rgb(255, 60, 0);
+}
